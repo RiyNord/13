@@ -12,6 +12,7 @@ int main()
     for (int i = 0; i < 5; i++) {
         cout<< scores[i][i]<<" ";
     }
+    cout << "!!!!";
     system("pause>>void");
     return 0;
 }
