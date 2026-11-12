@@ -13,6 +13,7 @@ int main()
         cout<< scores[i][i]<<" ";
     }
     cout << "!!!!";
+    cout << "Ярослав крутой";
     system("pause>>void");
     return 0;
 }
