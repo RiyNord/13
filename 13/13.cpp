@@ -13,6 +13,7 @@ int main()
         cout<< scores[i][i]<<" ";
     }
     system("pause>>void");
+    cout << "привет"<<endl;
     return 0;
     //hello
 }
